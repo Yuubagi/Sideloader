@@ -1,4 +1,4 @@
-# Sideloader1
+# Sideloader
 
 *The missing open-source iOS sideloader.*
 
